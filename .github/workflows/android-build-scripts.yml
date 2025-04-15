@@ -12,6 +12,7 @@ on:
       - 'scripts/**'
       - 'tools/**'
       - 'android.sh'
+      - 'test'
   pull_request:
     branches:
       - development
